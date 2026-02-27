@@ -20,7 +20,7 @@ I'm Leo, I'm a coder at riwi and I'm currently learning English and Software dev
 
 ## My top programming languages are 🔭:
 
-Python, Javascript, PHP and c ++.
+Python, Javascript, PHP and C ++.
 ## A random fact about me 😄:
 
 I used to build robots with Arduino, at the age of 8!
