@@ -14,14 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello World!👋
-I’m Leo, I’m a coder at riwi and I’m currently learning english and software development. I’m passionate about learning full stack development, new technologies, and robotics.
+# Hello World!👋
 
-My top programming languages are 🔭:
+I'm Leo, I'm a coder at riwi and I'm currently learning english and software development. I'm passionate about learning full stack development, new technologies, and robotics.
+
+## My top programming languages are 🔭:
+
 Python, Javascript, PHP and c ++.
+## A random fact about me 😄:
 
-A random fact about me 😄:
 I used to build robots with arduino, at the age of 8!
 
-My hobbies are 🎮:
+## My hobbies are 🎮:
+
 Sports, like swimming and jogging, and to read books.
+
+
