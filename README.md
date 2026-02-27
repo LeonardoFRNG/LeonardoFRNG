@@ -27,6 +27,6 @@ I used to build robots with arduino, at the age of 8!
 
 ## My hobbies are 📚:
 
-Sports, like swimming and jogging, and to read books.
+Sports, like swimming or jogging, and to read books.
 
 
