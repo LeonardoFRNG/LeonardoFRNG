@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 -->
 # Hello World!👋
 
-I'm Leo, I'm a coder at riwi and I'm currently learning english and software development. I'm passionate about learning full stack software development, new technologies, and robotics.
+I'm Leo, I'm a coder at riwi and I'm currently learning English and Software development. I'm passionate about learning full stack software development, new technologies, and robotics.
 
 ## My top programming languages are 🔭:
 
 Python, Javascript, PHP and c ++.
 ## A random fact about me 😄:
 
-I used to build robots with arduino, at the age of 8!
+I used to build robots with Arduino, at the age of 8!
 
 ## My hobbies are 📚:
 
-Sports, like swimming or jogging, and to read books.
+Sports such as swimming and jogging, and to read books.
 
 
