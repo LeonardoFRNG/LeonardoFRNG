@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hello World!👋
 
-I'm Leo, I'm a coder at riwi and I'm currently learning english and software development. I'm passionate about learning full stack development, new technologies, and robotics.
+I'm Leo, I'm a coder at riwi and I'm currently learning english and software development. I'm passionate about learning full stack software development, new technologies, and robotics.
 
 ## My top programming languages are 🔭:
 
