@@ -1,244 +1,62 @@
 <div align="center">
 
-# 👋 Hi, I'm Leonardo Jimenez
+# Leonardo Jiménez
+### Junior Backend Developer | Java · Spring Boot · REST APIs
 
-### Junior Software Developer in Training
+Building maintainable backend applications with an interest in software architecture, security, and collaborative engineering.
 
-**Java • Spring Boot • Angular • Full Stack • Bitcoin • Web3**
-
-<p>
-  <a href="https://github.com/LeonardoFRNG">
-    <img src="https://img.shields.io/badge/GitHub-LeonardoFRNG-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/leonardo-jim%C3%A9nez-dager-545847282/">
-    <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Jimenez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:leonardojim321@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Full+Stack+Applications+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Angular;Exploring+Bitcoin+%26+Web3+%F0%9F%94%B6;Learning%2C+Building%2C+Improving+%F0%9F%92%BB" alt="Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-jim%C3%A9nez-dager-545847282/)
+[![GitHub](https://img.shields.io/badge/GitHub-LeonardoFRNG-181717?logo=github&logoColor=white)](https://github.com/LeonardoFRNG)
 
 </div>
 
----
+## About me
 
-## 🧑‍💻 About Me
+I'm a software developer based in Colombia, focused on **backend development with Java and Spring Boot**. Through personal and team projects, I've worked with REST APIs, authentication, relational databases, and application architecture.
 
-I'm a **Junior Software Developer in Training** from Colombia, currently focused on building my skills in **backend and full-stack development**.
+I enjoy understanding how systems work, writing clear documentation, and improving software incrementally. I'm interested in junior backend and software development opportunities.
 
-My current development path is centered around:
+## Technical toolkit
 
-* ☕ **Java & Spring Boot** for backend development
-* 🅰️ **Angular & JavaScript** for frontend applications
-* 🗄️ **MySQL & relational databases**
-* 🌐 **Full Stack web development**
-* ₿ **Bitcoin & Web3 technologies**
-* 🔧 **Git & GitHub** for version control
-* 🤖 **Arduino & hardware projects**
+| Area | Technologies and practices |
+| --- | --- |
+| **Backend** | Java 21, Spring Boot, Spring Security, REST APIs, JPA/Hibernate, Maven |
+| **Databases** | PostgreSQL, MySQL, SQL, Flyway |
+| **Architecture** | Hexagonal Architecture, Ports & Adapters, layered architecture, microservices |
+| **Development tools** | Git, GitHub, Docker Compose, Postman, testing |
+| **Frontend** | JavaScript, Angular, HTML, CSS, Tailwind CSS |
+| **Expanding my skills** | CI/CD, AWS, Apache Spark |
 
-I enjoy understanding how systems work from the ground up, building projects to practice what I learn, and continuously expanding my development stack.
+## Selected work
 
-```java
-public class Leonardo {
+### [HelpFlow — IT Support Ticket Management](https://github.com/LeonardoFRNG/HelpFlow)
+A backend project with separate services for support tickets and technician dispatch. Its documented design covers **hexagonal architecture, SLA management, JWT-based access control, PostgreSQL, and observability**.
 
-    String role = "Junior Software Developer in Training";
-    String location = "Colombia 🇨🇴";
+**Stack:** Java 21 · Spring Boot · PostgreSQL · Docker Compose
 
-    String[] currentlyFocusedOn = {
-        "Java",
-        "Spring Boot",
-        "Angular",
-        "Full Stack Development",
-        "Bitcoin",
-        "Web3"
-    };
+### QuillAlert — Team Project
+Collaborative project under the Riwi organization. [Organization repository](https://github.com/Riwi-io-Medellin/242-quillalert) (private; availability depends on repository access).
 
-    String[] interests = {
-        "Software Development",
-        "Backend Engineering",
-        "Blockchain",
-        "Hardware & Arduino"
-    };
+### [Products & Categories REST API](https://github.com/LeonardoFRNG/RiwiApiProductos)
+Backend practice project covering CRUD operations, product-category relationships, DTOs, Spring Security, and JWT authentication.
 
-    String mindset = "Learn → Build → Break → Fix → Improve";
-}
-```
+**Stack:** Java · Spring Boot · MySQL
 
----
+### [TallerExpress — Workshop Management](https://github.com/LeonardoFRNG/TallerExpress-SENA)
+Java application for workshop service orders and inventory, including JDBC transactions to protect stock consistency.
 
-## 🚀 Current Focus
+**Stack:** Java · JDBC · MySQL
 
-<table>
-<tr>
-<td width="50%">
+> **SkillBridge:** The correct team repository link will be added once confirmed.
 
-## 🛠️ Tech Stack
+## What I value
 
-### ☕ Backend
+Readable code, clear business rules, thoughtful system design, and practical learning. I aim to build software that others can understand, run, and improve.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring" />
-</p>
+## Connect
 
-**Java · Spring Boot · REST APIs · OOP · CRUD**
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,js,html,css,tailwind" />
-</p>
-
-**Angular · JavaScript · HTML5 · CSS3 · Tailwind CSS**
-
-### 🗄️ Databases & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea" />
-</p>
-
-**MySQL · Git · GitHub**
-
-### 🐍 Other Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,arduino" />
-</p>
-
-**Python · Arduino**
-
-### ₿ Bitcoin & Web3
-
-<p>
-  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3-1E1E1E?style=for-the-badge&logo=web3.js&logoColor=white" />
-</p>
-
-**Bitcoin · Blockchain · Web3**
----
-
-## 📚 Learning Journey
-
-```text
-HTML / CSS
-     │
-     ▼
-JavaScript
-     │
-     ▼
-Python ───────────────┐
-     │                │
-     ▼                ▼
-Databases            PHP
-     │
-     ▼
-    Java
-     │
-     ▼
-Spring Boot
-     │
-     ▼
-REST APIs
-     │
-     ▼
-Angular
-     │
-     ▼
-Full Stack Development
-     │
-     ├──────────────► Bitcoin
-     │
-     └──────────────► Web3
-```
+[LinkedIn](https://www.linkedin.com/in/leonardo-jim%C3%A9nez-dager-545847282/) · [GitHub](https://github.com/LeonardoFRNG)
 
 ---
 
-## 🔥 What I'm Building
-
-I'm interested in projects that combine **software development with real-world technology**.
-
-Some areas I'm exploring:
-
-```text
-┌─────────────────────────────────────┐
-│          SOFTWARE DEVELOPMENT       │
-├─────────────────────────────────────┤
-│                                     │
-│   ☕ Java + Spring Boot             │
-│   🅰️ Angular                        │
-│   🗄️ MySQL                          │
-│   🌐 REST APIs                      │
-│                                     │
-├─────────────────────────────────────┤
-│              WEB3                   │
-├─────────────────────────────────────┤
-│                                     │
-│   ₿ Bitcoin                         │
-│   ⛓️ Blockchain                     │
-│   🌐 Decentralized Applications     │
-│                                     │
-├─────────────────────────────────────┤
-│             HARDWARE                │
-├─────────────────────────────────────┤
-│                                     │
-│   🤖 Arduino                        │
-│   🔌 Electronics                    │
-│   💡 Software + Hardware            │
-│                                     │
-└─────────────────────────────────────┘
-```
-
----
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=LeonardoFRNG&show_icons=true&theme=tokyonight&hide_border=true" alt="Leonardo's GitHub Stats"/>
-
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LeonardoFRNG&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Leonardo's Top Languages"/>
-
-</div>
-
----
-
-## 🎯 Goals
-
-```text
-☑ Build solid foundations in software development
-☑ Develop backend applications with Java & Spring Boot
-☑ Build modern interfaces with Angular
-☑ Strengthen full-stack development skills
-☑ Build and document real-world projects
-☑ Explore Bitcoin & Web3 development
-☑ Combine software with hardware projects
-☐ Become a professional software engineer
-```
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with other developers, learning from the community, and working on interesting technology projects.
-
-<div align="center">
-
-<a href="https://github.com/LeonardoFRNG">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/leonardo-jim%C3%A9nez-dager-545847282/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:leonardojim321@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-### 💻 Learn. Build. Experiment. Repeat.
-
-</div>
+<div align="center"><sub>Open to junior backend development opportunities and collaborative projects.</sub></div>
