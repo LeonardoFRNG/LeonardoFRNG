@@ -29,6 +29,11 @@ I enjoy understanding how systems work, writing clear documentation, and improvi
 
 ## Selected work
 
+### [SkillBridge AI — Full-Stack Mentorship Platform](https://github.com/crapdev/SkillBridge-fullStack)
+Collaborative platform for professional mentorships and service bookings. The repository documents a **hexagonal Spring Boot backend**, **Angular frontend**, PostgreSQL, Redis caching, RabbitMQ events, and an AI-powered recommendation flow. It also covers Docker, CI/CD, and observability.
+
+**Stack:** Java 21 · Spring Boot · Angular · PostgreSQL · Redis · RabbitMQ · Docker
+
 ### [HelpFlow — IT Support Ticket Management](https://github.com/LeonardoFRNG/HelpFlow)
 A backend project with separate services for support tickets and technician dispatch. Its documented design covers **hexagonal architecture, SLA management, JWT-based access control, PostgreSQL, and observability**.
 
@@ -46,8 +51,6 @@ Backend practice project covering CRUD operations, product-category relationship
 Java application for workshop service orders and inventory, including JDBC transactions to protect stock consistency.
 
 **Stack:** Java · JDBC · MySQL
-
-> **SkillBridge:** The correct team repository link will be added once confirmed.
 
 ## What I value
 
